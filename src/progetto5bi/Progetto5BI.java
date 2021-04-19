@@ -17,7 +17,8 @@ public class Progetto5BI {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Salve");
-        System.err.println("NUOVO");
+        System.err.println("NUOVO 5I");
+        
     }
     
 }
